@@ -1,0 +1,14 @@
+#body {
+    margin: 100px;
+}
+#name {
+    font-weight: 1000px;
+    font-size: xx-large;
+}
+#image {
+    border: 20px;
+    border: 100px;
+}
+table > tr {
+    margin: 10px;
+}
